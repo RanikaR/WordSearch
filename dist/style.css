@@ -1,0 +1,39 @@
+h1 {
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.center-div
+{
+  font-size: 30px;
+  margin: 0 auto;
+  margin-top: 5px;
+  width: 200px; 
+  outline: 2px solid #4B1217;
+  background-color: #CCA796;
+  opacity: 0.65;
+  text-align: center;
+}
+
+.center-div2
+{
+  opacity: 0.75;
+  margin: 0 auto;
+  width: 150px; 
+  text-align: center
+}
+
+input {
+  width: 100%;
+}
+
+body {
+ background-image: url("https://thumbs.gfycat.com/FeistyDirectDipper-max-1mb.gif");
+  background-color: #BA434B;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
